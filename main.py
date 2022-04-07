@@ -1,4 +1,4 @@
-# Fortune teller
+# Fortune teller sample
 
 user_name = raw_input("What is your name?")
 if user_name == "Alex":
